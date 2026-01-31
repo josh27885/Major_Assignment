@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joshl\\OneDrive\\Documents\\Software Design 2 comp3108\\Sem1_major_project\\Major_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F47368FB-56E4-46C1-99FC-DB4C6C709205}|Major_Assignment.vcxproj|C:\\Users\\joshl\\OneDrive\\Documents\\Software Design 2 comp3108\\Sem1_major_project\\Major_Assignment\\Major_Assignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F47368FB-56E4-46C1-99FC-DB4C6C709205}|Major_Assignment.vcxproj|solutionrelative:Major_Assignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Major_Assignment.cpp",
+              "DocumentMoniker": "C:\\Users\\joshl\\OneDrive\\Documents\\Software Design 2 comp3108\\Sem1_major_project\\Major_Assignment\\Major_Assignment.cpp",
+              "RelativeDocumentMoniker": "Major_Assignment.cpp",
+              "ToolTip": "C:\\Users\\joshl\\OneDrive\\Documents\\Software Design 2 comp3108\\Sem1_major_project\\Major_Assignment\\Major_Assignment.cpp",
+              "RelativeToolTip": "Major_Assignment.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T08:38:32.885Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
