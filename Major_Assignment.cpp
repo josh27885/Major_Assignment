@@ -24,7 +24,6 @@ void disp_the_speech_statistics(const speech_stats& TWO); // function to display
 int main()
 {
 	
-
 	read_speech_signal(TWO.speech_arr); 
 	find_mean_magnitude(TWO.speech_arr,&TWO.mean);
 	find_variance(TWO.speech_arr, TWO.mean, &TWO.variance);
@@ -33,7 +32,6 @@ int main()
 	find_average_power(TWO.speech_arr, &TWO.average_power);
 	disp_the_speech_statistics(TWO);
 	
-
 
 
 

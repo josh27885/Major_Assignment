@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F47368FB-56E4-46C1-99FC-DB4C6C709205}|Major_Assignment.vcxproj|C:\\Users\\joshl\\OneDrive\\Documents\\Software Design 2 comp3108\\Sem1_major_project\\Major_Assignment\\Major_Assignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F47368FB-56E4-46C1-99FC-DB4C6C709205}|Major_Assignment.vcxproj|solutionrelative:Major_Assignment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47368FB-56E4-46C1-99FC-DB4C6C709205}|Major_Assignment.vcxproj|C:\\Users\\joshl\\OneDrive\\Documents\\Software Design 2 comp3108\\Sem1_major_project\\Major_Assignment\\c\u002B\u002B.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{F47368FB-56E4-46C1-99FC-DB4C6C709205}|Major_Assignment.vcxproj|solutionrelative:c\u002B\u002B.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "c\u002B\u002B.gitignore",
+              "DocumentMoniker": "C:\\Users\\joshl\\OneDrive\\Documents\\Software Design 2 comp3108\\Sem1_major_project\\Major_Assignment\\c\u002B\u002B.gitignore",
+              "RelativeDocumentMoniker": "c\u002B\u002B.gitignore",
+              "ToolTip": "C:\\Users\\joshl\\OneDrive\\Documents\\Software Design 2 comp3108\\Sem1_major_project\\Major_Assignment\\c\u002B\u002B.gitignore",
+              "RelativeToolTip": "c\u002B\u002B.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-31T20:19:05.833Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Major_Assignment.cpp",
               "ToolTip": "C:\\Users\\joshl\\OneDrive\\Documents\\Software Design 2 comp3108\\Sem1_major_project\\Major_Assignment\\Major_Assignment.cpp",
               "RelativeToolTip": "Major_Assignment.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-21T08:38:32.885Z",
               "EditorCaption": ""

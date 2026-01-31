@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Major_Assignment.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="c++.gitignore" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
